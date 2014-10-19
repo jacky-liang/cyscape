@@ -1,0 +1,23 @@
+# head bone
+jaw:              bJaw
+nostrils:         bNostrils
+tongue_behind:    bTongueB
+tongue_front:     bTongueF
+lip_lower_left:   bLipLL
+lip_lower_right:  bLipLR
+lip_upper_left:   bLipUL
+lip_upper_right:  bLipUR
+lip_corner_left:  bLipCL
+lip_corner_right: bLipCR
+cheek_left:       bCheekL
+cheek_right:      bCheekR
+eye_left:         bEyeL
+eye_right:        bEyeR
+lid_lower_left:   bLidLL
+lid_lower_right:  bLidLR
+lid_upper_left:   bLidUL
+lid_upper_right:  bLidUR
+brow_inner_left:  bBrowIL
+brow_inner_right: bBrowIR
+brow_outer_left:  bBrowOL
+brow_outer_right: bBrowOR
